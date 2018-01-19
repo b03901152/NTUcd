@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -Wextra -O3 -std=c++17 -fopenmp -ffast-math  -rdynamic CMakeFiles/NTUcd.dir/src/main.cpp.o CMakeFiles/NTUcd.dir/src/RTL.cpp.o CMakeFiles/NTUcd.dir/src/Util.cpp.o  -o NTUcd -lboost_system 
